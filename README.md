@@ -30,20 +30,15 @@ python-dotenv
 
 #📦 Setup Instructions
 
-1. Clone the Repository
-
-https://github.com/yourusername/resume-evaluator-app.git
-cd resume-evaluator-app
-
-2. Install Dependencies
+1. Install Dependencies
 
 pip install -r requirements.txt
 
-3. Add API Key in .env
+2. Add API Key in .env
 
 GOOGLE_API_KEY=your_google_api_key
 
-4. Run the Streamlit App
+3. Run the Streamlit App
 
 streamlit run resume_checker_app.py
 
