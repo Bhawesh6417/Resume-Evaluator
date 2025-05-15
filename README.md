@@ -1,8 +1,8 @@
-##📄 Resume Evaluator + Interview Question Generator
+📄 Resume Evaluator + Interview Question Generator
 
 This is a Streamlit web application that uses Google Gemini 2.0 Flash Exp to evaluate a candidate's resume against a provided job description or tech stack. It also generates relevant technical and behavioral interview questions based on the match.
 
-#🚀 Features
+🚀 Features
 
 Upload a candidate's resume in PDF format
 
@@ -18,7 +18,7 @@ Receive 5 smart interview questions based on the resume and job
 
 Clean and user-friendly interface using Streamlit
 
-#🧠 Powered By
+🧠 Powered By
 
 Google Gemini 2.0 Flash Exp
 
@@ -28,7 +28,7 @@ PyPDF2
 
 python-dotenv
 
-#📦 Setup Instructions
+📦 Setup Instructions
 
 1. Install Dependencies
 
@@ -42,7 +42,7 @@ GOOGLE_API_KEY=your_google_api_key
 
 streamlit run resume_checker_app.py
 
-#📝 Example Use Cases
+📝 Example Use Cases
 
 Screening candidates based on skillset fit
 
@@ -54,7 +54,7 @@ Auto-generating interview questions
 ![image](https://github.com/user-attachments/assets/68220c11-8dc5-4233-bb64-ff06f8e2061f)
 
 
-#📌 Notes
+📌 Notes
 
 Make sure the resume is in readable PDF format
 
